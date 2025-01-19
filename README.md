@@ -1,5 +1,5 @@
 # Open API
 
-#Npm Package
+## Npm Package
 - openai
 - readline-sync
